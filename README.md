@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">\n  <img src="https://raw.githubusercontent.com/Alttrest/Ven-s-Finder/main/banner.jpeg" width="100%" alt="Project Banner" />\n</p>\n\n<div align="center">
   
 # ✨ Ven-s-Finder ✨
 
