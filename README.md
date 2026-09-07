@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://github.com/Alttrest/Ven-s-Finder">
-    <img src="https://github-readme-svg-ten.vercel.app/api?username=Alttrest&repo=Ven-s-Finder&theme=dark" alt="Ven-s-Finder Stats" />
-  </a>
-</p>
+<div align="center">\n  <a href="https://github.com/Alttrest/Ven-s-Finder">\n    <img src="readme.svg" alt="Ven-s-Finder" width="100%"/>\n  </a>\n</div>\n
