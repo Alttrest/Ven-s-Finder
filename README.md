@@ -1,1 +1,5 @@
-<div align="center">\n  <a href="https://github.com/Alttrest/Ven-s-Finder">\n    <img src="readme.svg" alt="Ven-s-Finder" width="100%"/>\n  </a>\n</div>\n
+<p align="center">
+  <a href="https://github.com/Alttrest/Ven-s-Finder">
+    <img src="readme.svg" width="100%" alt="Ven-s-Finder - Interactive Architecture &amp; Visual Identity" />
+  </a>
+</p>
